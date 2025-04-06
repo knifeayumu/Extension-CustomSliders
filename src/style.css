@@ -1,3 +1,7 @@
-.hello-world-message {
-    color: blue;
+#custom_sliders_list .textAlignRight {
+    text-align: right;
+}
+
+.custom_sliders_container {
+    display: contents;
 }
